@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kapson007 Nowadays I study ICT at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
-- 🌱 I’m currently learning VanillaJS and ReactJS
-- 📫 How to reach me: Discord => Mosfet#6942 
+- 🌱 I’m currently learning VanillaJS and ReactJS [<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">]
+- After Hours I paint with watercolors 🎨
 
 ### Connect with me:
 
