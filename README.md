@@ -5,6 +5,7 @@
 
 
 ### Connect with me:
+[<img align="left" color="blue" alt="HTML" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
 [discord]: https://discordapp.com/users/Mosfet#6942
 
 
@@ -12,13 +13,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007&show_icons=true&theme=tokyonight)
-
-
-
-
-[<img align="left" color="blue" alt="HTML" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
-
-
 
 
 ### Languages and Tools:
