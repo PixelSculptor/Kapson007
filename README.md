@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning VanillaJS and ReactJS
 - 📫 How to reach me: Discord => Mosfet#6942 [discord]:https://discordapp.com/users/Mosfet#6942
 
-[<img align="left" alt="discord profile" width="22px" src="./discord.svg" />][discord]
+[<img align="left" alt="discord profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <!---
 Kapson007/Kapson007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
