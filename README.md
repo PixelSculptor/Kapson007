@@ -11,8 +11,6 @@
 [discord]: https://discordapp.com/users/Mosfet#6942
 
 
-###
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007&show_icons=true&theme=tokyonight)
 
@@ -38,6 +36,9 @@
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapson007)](https://github.com/Kapson007/github-readme-stats)
 
 
 
