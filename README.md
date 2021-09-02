@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning VanillaJS and ReactJS
 - 📫 How to reach me: Discord => Mosfet#6942 
 
+### Connect with me:
+
 [<img align="left" color="blue" alt="HTML" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
 
-
-### Connect with me:
 
 [discord]: https://discordapp.com/users/Mosfet#6942
 
@@ -37,7 +37,7 @@
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
-<br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapson007)](https://github.com/Kapson007/github-readme-stats)
 
