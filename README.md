@@ -5,7 +5,7 @@
 
 
 ### Connect with me:
-[discord]: https://discordapp.com/users/Mosfet#6942
+[discord] https://discordapp.com/users/Mosfet#6942
 
 
 ###
@@ -16,7 +16,7 @@
 
 
 
-[<img align="left" color="blue" alt="HTML" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.pngg"/>][discord]
+[<img align="left" color="blue" alt="HTML" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
 
 ### Languages and Tools:
 
