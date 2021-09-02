@@ -2,9 +2,11 @@
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
 - 🌱 I’m currently learning VanillaJS and ReactJS
 - 📫 How to reach me: Discord => Mosfet#6942 
-- 
-###Connect with me:
+
+
+### Connect with me:
 [discord]: https://discordapp.com/users/Mosfet#6942
+
 [<img align="left" alt="discord profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <!---
