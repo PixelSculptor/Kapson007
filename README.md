@@ -10,7 +10,7 @@
 
 [discord]: https://discordapp.com/users/Mosfet#6942
 
-
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007&show_icons=true&theme=tokyonight)
 
