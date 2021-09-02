@@ -8,12 +8,12 @@
 [discord]: https://discordapp.com/users/Mosfet#6942
 
 
-
-[<img align="left" color="blue" alt="discord profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007&show_icons=true)
+
 
 
 ### Languages and Tools:
