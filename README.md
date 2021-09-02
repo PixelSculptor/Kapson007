@@ -36,7 +36,7 @@
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" color="blue" alt="webpack" width="22px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" />
+<img align="left" color="blue" alt="webpack" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 
 
