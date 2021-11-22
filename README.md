@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapson007 Nowadays I study ICT at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
-- 🌱 I’m currently learning VanillaJS and VueJS <img src="https://img.shields.io/badge/-Vue-61DAFB?logo=vue&logoColor=white">
+- 🌱 I’m currently learning VanillaJS and VueJS
 - After Hours I paint with watercolors 🎨
 
 ### Contact with me:
