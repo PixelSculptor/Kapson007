@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapson007 Nowadays I study ICT at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
-- 🌱 I’m currently learning VanillaJS and ReactJS <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
+- 🌱 I’m currently learning VanillaJS and VueJS <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=vue&logoColor=white">
 - After Hours I paint with watercolors 🎨
 
 ### Contact with me:
@@ -25,7 +25,7 @@
 
 <img align="left" color="blue" alt="SASS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" color="blue" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" color="blue" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
