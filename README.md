@@ -6,7 +6,7 @@
 
 ### Contact with me:
 
-[LinkedIn] (www.linkedin.com/in/kacper-nadstoga-putPoznan)
+LinkedIn: (www.linkedin.com/in/kacper-nadstoga-putPoznan)
 
 <br><br>
 
