@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kapson007 Nowadays I study ICT at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
 - Recently I joined to AKAI students club
-- 🌱 I’m currently learning VanillaJS and VueJS
+- 🌱 I’m currently learning VanillaJS and ReactJS
 - After Hours I paint with watercolors 🎨
 
 ### Contact with me:
