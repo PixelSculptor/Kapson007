@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kapson007 Nowadays I study ICT at Poznan University of Technology (PUT) 🇵🇱
+- 👋 Hi, I’m @Kapson007 I am Engineer of ICT. Nowadays I study Distributed Systems (Master Degree) at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
-- Recently I joined to AKAI students club where I am main coordinator to cooperation with companies.
-- 🌱 I’m currently learning VanillaJS and Vue.js and working as Junior Frontend Engineer in WTT.
+- I am vice-leader of AKAI (Web Application Research Club at PUT) and main coordinator to cooperation with companies.
+- 🌱 I’m currently learning TypeScript and Vue.js and working as Junior Frontend Engineer in WTT.
 - After Hours I paint with watercolors 🎨
 
 ### Contact with me:
