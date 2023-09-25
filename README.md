@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kapson007 I am Engineer of ICT. Nowadays I study Distributed Systems (Master Degree) at Poznan University of Technology (PUT) 🇵🇱
+- 👋 Hi, I’m @PixelSculptor I am Engineer of ICT. Nowadays I study Distributed Systems (Master Degree) at Poznan University of Technology (PUT) 🇵🇱
 - 👀 I’m interested in frontend. Especially study creating interactive webapps
 - I am vice-leader of AKAI (Web Application Research Club at PUT) and main coordinator to cooperation with companies.
 - 🌱 I’m currently learning TypeScript and Vue.js and working as Junior Frontend Engineer in WTT.
@@ -10,7 +10,7 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapson007&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelSculptor&show_icons=true&theme=tokyonight)
 
 
 ### Languages and Tools:
@@ -39,7 +39,7 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapson007)](https://github.com/Kapson007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapson007)](https://github.com/PixelSculptor/github-readme-stats)
 
 
 
