@@ -39,7 +39,7 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapson007)](https://github.com/PixelSculptor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSculptor)](https://github.com/PixelSculptor/github-readme-stats)
 
 
 
