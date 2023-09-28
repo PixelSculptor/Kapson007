@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PixelSculptor I am Engineer of ICT. Nowadays I study Distributed Systems (Master Degree) at Poznan University of Technology (PUT) 🇵🇱
-- 👀 I’m interested in frontend. Especially study creating interactive webapps
+- 👀 I’m interested in fullstack development. Especially study creating interactive webapps which I'd like to integrate with Cloud Provider - AWS.
 - I am vice-leader of AKAI (Web Application Research Club at PUT) and main coordinator to cooperation with companies.
 - 🌱 I’m currently learning TypeScript and Vue.js and working as Junior Frontend Engineer in WTT.
 - After Hours I paint with watercolors 🎨
@@ -29,9 +29,13 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
+<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python">
 
 <img align="left" color="blue" alt="node" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="100" title="TypeScript">
+
+<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React">
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
