@@ -29,13 +29,10 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
-<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python">
+<img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 
 <img align="left" color="blue" alt="node" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="100" title="TypeScript">
-
-<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React">
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
