@@ -31,8 +31,6 @@ LinkedIn: www.linkedin.com/in/kacper-nadstoga-putPoznan
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png" />
-
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" color="blue" alt="webpack" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
