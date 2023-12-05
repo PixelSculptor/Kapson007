@@ -1,9 +1,9 @@
 ## About me
 
 - 👋 Hi, I’m @PixelSculptor I am Engineer of ICT. Nowadays I study Distributed Systems (Master Degree) at Poznan University of Technology (PUT) 🇵🇱
-- 👀 I’m interested in fullstack development. Especially study creating interactive webapps which I'd like to integrate with Cloud Provider - AWS.
+- 👀 I’m interested in fullstack development. Especially study creating webapps which I'd like to integrate with Cloud Systems.
 - I am vice-leader of AKAI (Web Application Research Club at PUT) and main coordinator to cooperation with companies.
-- 🌱 I’m currently learning TypeScript and Vue.js and working as Junior Frontend Engineer in WTT.
+- 🌱 I’m currently learning TypeScript, React and Vue.js  and working as Junior Frontend Engineer in WTT.
 - After Hours I paint with watercolors 🎨
 
 ### Contact with me:
