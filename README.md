@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on master thesis - ***Effectiveness analysis serverless design patterns***<br><br>🌱 I’m currently learning AWS and React<br><br>👨‍💻 All of my projects are available at https://github.com/PixelSculptor<br><br>📫 How to reach me kapix007@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/kacper-nadstoga/<br><br>⚡ Fun fact I love F1 and cycling
+🔭 I’m currently working on master thesis - ***Effectiveness analysis serverless design patterns***<br><br>🌱 I’m currently learning AWS and React<br><br>👨‍💻 All of my projects are available at https://github.com/PixelSculptor<br><br>📫 How to reach me kapix007@gmail.com<br><br>📄 Look at my experience: https://www.linkedin.com/in/kacper-nadstoga/<br><br>⚡ Fun fact I love F1 and cycling
 
 
 ## 🌐 Socials:
